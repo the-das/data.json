@@ -5,17 +5,17 @@
   "course": [
     {
       "title": "초심자",
-      "file": "das.beginner.json",
+      "level": "beginner",
       "content": 10
     },
     {
       "title": "중급자",
-      "file": "das.intermediate.json",
+      "level": "intermediate",
       "content": 10
     },
     {
       "title": "전문가",
-      "file": "das.beginner.json",
+      "level": "beginner",
       "content": 10
     }
   ]
