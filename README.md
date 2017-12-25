@@ -21,8 +21,13 @@
       "content": 10
     },
     {
+      // 이름
       "title": "중급자",
+      // 설명
+      "description": "중급자 코스입니다.",
+      // 난이도
       "level": "intermediate",
+      // 문항수
       "content": 10
     },
     {
