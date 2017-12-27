@@ -12,7 +12,7 @@
         "9",
         "12"
       ],
-      "answer": [2],
+      "answer": 2,
       "explanation": "3 * 2 = 6"
     },
     {
@@ -23,7 +23,7 @@
         "9",
         "12"
       ],
-      "answer": [3],
+      "answer": 3,
       "explanation": "3 * 3 = 9"
     }
   ]
